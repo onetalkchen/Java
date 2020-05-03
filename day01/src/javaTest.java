@@ -4,6 +4,7 @@
  */
 public class javaTest {
     public static void main(String[] args) {
+        String one="测试";
         System.out.println("你好");
     }
 }
